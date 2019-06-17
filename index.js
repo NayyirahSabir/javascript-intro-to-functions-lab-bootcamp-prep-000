@@ -8,7 +8,7 @@ function whisper(string) {
 
 function sayHiToGrandma(string){
   if ("I can't hear you!"){
-    console.log
+    console.log(toLowerCase)
   }
 }
 
